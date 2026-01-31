@@ -3,7 +3,7 @@ import urllib.parse
 
 geocode_url = "https://graphhopper.com/api/1/geocode?"
 route_url = "https://graphhopper.com/api/1/route?"
-key = "f8fbb80f-1672-444c-9e9f-ec4ca2d246b8"
+key = "e50ec2be-7549-474ª-9ª2c-d4dbe28da1ae"
 
 def geocoding (location, key):
     while location == "":
@@ -116,4 +116,5 @@ while True:
             print("=================================================")
         else:
             print("Mensaje de error: " + paths_data["message"])
+
             print("*************************************************")
