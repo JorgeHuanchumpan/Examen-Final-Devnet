@@ -1,5 +1,5 @@
-nombre = "Jorge andres Huanchumpan munoz"
-rut = "XX.XXX.XXX-X"
+nombre = "Jorge"
+ID = "XX.XXX.XXX-X"
 ramo = "Cisco Devnet"
 tema = "Examen Devnet"
-print(nombre+"\n"+rut+"\n"+ramo+"\n"+tema)
+print(nombre+"\n"+ID+"\n"+ramo+"\n"+tema)
